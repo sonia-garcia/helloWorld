@@ -1,0 +1,20 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node helloWorld.js",
+    "test": "echo \"Error: no test specified\" && exit 1."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonia-garcia/helloworld.git"
+  },
+  "author": "sg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonia-garcia/hw/issues"
+  },
+  "homepage": "https://github.com/sonia-garcia/hw#readme"
+}
